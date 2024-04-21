@@ -1,7 +1,7 @@
 - 👋 Hi, I’m zemam ikram 
-- 👀 I’m interested in ML | CV | front end 
+- 👀 I’m interested in ML | CV | web dev
 - 🌱 I’m currently learning CV|ML
--  🖌 I like to do graphic designs in my free time 
+-  🖌 I like to do graphic design in my free time 
 
 <!---
 ikoze22/ikoze22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
